@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>私のホームページ</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<h1>ようこそ！</h1>
+
+<p>これはHTMLの課題で作成したホームページです。</p>
+
+<img src="image.jpg" alt="画像">
+
+<br><br>
+
+<a href="profile.html">プロフィールを見る</a>
+
+</body>
+
+</html>
